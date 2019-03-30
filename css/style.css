@@ -85,3 +85,15 @@ footer {
   -webkit-flex-direction: row;
   -webkit-justify-content: center;
 }
+
+/* Dark Theme */
+body {
+  background: #222;
+  color: white;
+}
+.age-label {
+  color: #7d8185;
+}
+.count {
+  color: #bdbdbd;
+}
